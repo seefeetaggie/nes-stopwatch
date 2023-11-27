@@ -1,0 +1,5 @@
+{
+  "executable": "C:\\cc65\\bin\\cl65",
+  "input": "stopwatch.s",
+  "params": "--verbose --target nes --debug --debug-info -o stopwatch.nes"
+}
